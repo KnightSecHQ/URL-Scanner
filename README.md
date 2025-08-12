@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="url-scanner-shield" src="https://github.com/user-attachments/assets/48a3b7e7-bb9b-4dcd-ab9e-b7b435571555" />
+![URL Scanner Banner](./banner.png)
 
 # 🔍 URL Scanner
 
